@@ -42,6 +42,10 @@
   🎥 Vídeo da aplicação
 </h2>
 
+
+https://user-images.githubusercontent.com/102679381/197405021-ea9ac8a4-8e13-4732-9d47-2c99a4338fe5.mp4
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
