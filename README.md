@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="#-video-da-aplicação">Vídeo da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#user-content--licença">Licença</a>
 </p>
 
 <p align="center">
@@ -72,5 +74,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
+
+---
 
 Feito com ❤️ por Daniel Guimarães 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-guimaraes-vieira/)
